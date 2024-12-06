@@ -1,0 +1,14 @@
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/bin/Debug/net8.0/Day2
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/bin/Debug/net8.0/Day2.deps.json
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/bin/Debug/net8.0/Day2.runtimeconfig.json
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/bin/Debug/net8.0/Day2.dll
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/bin/Debug/net8.0/Day2.pdb
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/obj/Debug/net8.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/obj/Debug/net8.0/Day2.AssemblyInfoInputs.cache
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/obj/Debug/net8.0/Day2.AssemblyInfo.cs
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/obj/Debug/net8.0/Day2.csproj.CoreCompileInputs.cache
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/obj/Debug/net8.0/Day2.dll
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/obj/Debug/net8.0/refint/Day2.dll
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/obj/Debug/net8.0/Day2.pdb
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/obj/Debug/net8.0/Day2.genruntimeconfig.cache
+/Users/juliastolova/Documents/Programming/PVA/AdventOfCode/Day2/obj/Debug/net8.0/ref/Day2.dll
